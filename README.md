@@ -1,8 +1,7 @@
 # WEB-REACT-OPTIMIZATION
 
 ## [description]
-- 브랜치별로 최적화를 진행해볼 것
-    - ok/blog-service: 블로그 서비스를 최적화 해보는 브랜치
+- 블로그 서비스 최적화진행
 
 ## [author]
 - 옥현지
@@ -15,3 +14,6 @@
     - upstream의 변경 사항 가져오기: git fetch upstream
     - 새로운 브랜치 fet를 로컬에서 생성 및 체크아웃: git checkout -b fet upstream/fet
     - 새로운 브랜치를 포크된 리포지토리로 푸시: git push origin fet
+
+## [environment]
+- node: 16v
