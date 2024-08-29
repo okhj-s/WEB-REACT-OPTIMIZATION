@@ -1,8 +1,7 @@
 # WEB-REACT-OPTIMIZATION
 
 ## [description]
-- 브랜치별로 최적화를 진행해볼 것
-    - ok/blog-service: 블로그 서비스를 최적화 해보는 브랜치
+- 올림픽 통계 서비스 최적화
 
 ## [author]
 - 옥현지
